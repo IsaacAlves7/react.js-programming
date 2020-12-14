@@ -1,5 +1,5 @@
-# React.js Programming
-⚛️ It's a repository of React.js programming.
+# It's a repository of React.js programming
+<p>It's a repository of React.js programming.</p>
 <img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif"/>
 
 <!--
