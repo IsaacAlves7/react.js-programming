@@ -1,6 +1,8 @@
 # ⚛️ It's a repository of React.js programming 🔢
+<!--
 [![TSX](https://img.shields.io/badge/-main.tsx-fff?style=social&logo=Atom&logoColor=blue)](#)
 [![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
+-->
 
 <p>It's a repository of React.js programming.</p>
 
