@@ -1,4 +1,4 @@
-# ⚛️ It's a repository of React.js programming 🔢
+# <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="30"> It's a repository of React.js programming ⚛️
 <!--
 [![TSX](https://img.shields.io/badge/-main.tsx-fff?style=social&logo=Atom&logoColor=blue)](#)
 [![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
