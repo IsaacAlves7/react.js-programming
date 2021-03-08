@@ -7,7 +7,7 @@
 
 <p>It's a repository of React.js programming.</p>
 
-<img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif"/>
+<a href=""><img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif"/></a>
 <blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in React.js Framework development, if you want to learn about HTML5, CSS3 or other JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
