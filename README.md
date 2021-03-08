@@ -2,11 +2,11 @@
 <!--
 [![TSX](https://img.shields.io/badge/-main.tsx-fff?style=social&logo=Atom&logoColor=blue)](#)
 [![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
+<div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" height="47"></div>
 -->
 
 <p>It's a repository of React.js programming.</p>
 
-<div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" height="47"></div>
 <img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif"/>
 <blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in React.js Framework development, if you want to learn about HTML5, CSS3 or other JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
